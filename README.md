@@ -1,49 +1,9 @@
 # LangChain Notes 
 The repo contains the notes that I took while learning [LangChain](https://python.langchain.com/docs/get_started/introduction.html) 🦜🔗. 
 
-## Modules
-### Model I/O
-
-### Data Connection
-
-### Chains
-
-### Memory
-
-### Agents
-
-### Callbacks
-
-## Guides
-### Evaluation
-### Adapters
-### Debugging
-### Deployment
-### LangChain Expression Language
-### Fallbacks
-### LangSmith
-### Model Comparison
-### Preventing harmful outputs
-
-## Use-Cases 
-### QA over Documents
-### Web Scraping
-### Chatbots
-### Summarization
-### Interacting with APIs
-### ...
-
-## Integrations
-### Callbacks
-### Chat models
-### Document loaders
-### Document transformers
-### LLMs
-### Text embedding models
-### Vector stores
-### ...
-
-## Additional Resources
-### Tutorials
-### YouTube Videos
-### Gallery
+## Content
+- [Modules]("https://github.com/kaankork/langchain-notes/modules")
+- [Guides]("https://github.com/kaankork/langchain-notes/guides")
+- [Use-Cases]("https://github.com/kaankork/langchain-notes/use_cases")
+- [Integrations]("https://github.com/kaankork/langchain-notes/integrations")
+- [Additional Resources]("https://github.com/kaankork/langchain-notes/additional_resources")
